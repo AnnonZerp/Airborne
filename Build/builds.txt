@@ -1,4 +1,4 @@
-name="YCBeast Krypton Build"
+name="Airborne Krypton Build"
 version="0.9"
 url="https://www.dropbox.com/s/9trvm8rai7yh4xp/ycbeast.zip?dl=1"
 gui="https://github.com/AnnonZerp/Airborne/raw/master/Build/airborne_guisettings.zip"
