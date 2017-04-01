@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.aswizard" name="[COLOR black]..[/COLOR][COLOR red]Airborne[/COLOR]" version="8.0.5" provider-name="[COLOR red]AnnonZerp[/COLOR]">
+<addon id="plugin.program.airborne" name="Airborne Wizard" version="0.1.7a" provider-name="AnnonZerp">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video executable</provides>
+    <provides>executable</provides>
   </extension>
-  <extension point="xbmc.service" library="airborne.py" start="startup" />
+  <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en"></summary>
-    <description lang="en"></description>
+    <summary lang="en">Airborne Wizard</summary>
+    <description lang="en">Airborne Wizard allows you to get access to the latest Airborne Custom Builds.</description>
     <platform>all</platform>
   </extension>
 </addon>
