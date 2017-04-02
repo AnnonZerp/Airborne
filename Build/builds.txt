@@ -1,6 +1,6 @@
 name="Airborne Krypton Build"
 version="1.0"
-url="https://drive.google.com/uc?export=download&id=0B_EXbHs7IyqvWkJ4WEhka0lrRDg"
+url="https://www.dropbox.com/s/cwv7ow598v6xxz2/Airborne%20Krypton.zip?dl=1"
 gui="https://github.com/AnnonZerp/Airborne/raw/master/Build/airborne_guisettings.zip"
 kodi="17.1"
 theme="http://"
