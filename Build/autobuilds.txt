@@ -5,18 +5,6 @@ zip="https://github.com/AnnonZerp/Airborne/raw/master/Downloads/plugin.program.a
 name="Airborne Krypton Build"
 version="1.0"
 url="https://www.dropbox.com/s/x2z4mutwok053lf/Airborne%20Krypton.zip?dl=1"
-gui="http://"
-kodi="17.1"
-theme="http://"
-icon="https://github.com/AnnonZerp/Airborne/raw/master/Build/icon.png"
-fanart="https://github.com/AnnonZerp/Airborne/raw/master/Build/PHOENIX.png"
-adult="no"
-description="DO NOT INSTALL ON JARVIS 16.1. Built for Kodi v17 Krypton. Download Newest Most Up-To-Date Build of the YCBeast."
-
-
-name="Airborne Krypton Build"
-version="0.2"
-url="https://www.dropbox.com/s/x2z4mutwok053lf/Airborne%20Krypton.zip?dl=1"
 gui="https://github.com/AnnonZerp/Airborne/raw/master/Build/airborne_guisettings.zip"
 kodi="17.1"
 theme=""
