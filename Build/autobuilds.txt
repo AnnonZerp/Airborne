@@ -4,7 +4,7 @@ zip="https://github.com/AnnonZerp/Airborne/raw/master/Downloads/plugin.program.a
 
 name="Airborne Krypton Build"
 version="1.0"
-url="https://www.dropbox.com/s/x2z4mutwok053lf/Airborne%20Krypton.zip?dl=1"
+url="https://www.dropbox.com/s/cwv7ow598v6xxz2/Airborne%20Krypton.zip?dl=1"
 gui="https://github.com/AnnonZerp/Airborne/raw/master/Build/airborne_guisettings.zip"
 kodi="17.1"
 theme="http://"
