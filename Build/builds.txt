@@ -1,6 +1,6 @@
 name="Airborne Krypton Build"
 version="1.0"
-url="http://download1510.mediafire.com/9cy255dwgyrg/0w20aoy5pf3uzyu/Airborne+Krypton.zip"
+url="http://download2080.mediafire.com/qsc743na1m1g/0w20aoy5pf3uzyu/Airborne+Krypton.zip"
 gui="https://github.com/AnnonZerp/Airborne/raw/master/Build/airborne_guisettings.zip"
 kodi="17.1"
 theme="http://"
