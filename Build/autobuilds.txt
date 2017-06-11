@@ -16,7 +16,7 @@ description="DO NOT INSTALL ON JARVIS 16.1. Built for Kodi v17 Krypton. Download
 
 name="Volvox (Old Airborne) Jarvis Build"
 version="1.2"
-url="http://download1139.mediafire.com/vr66fqhugrkg/jv6ot627c5mw532/VolvoxBuild.zip"
+url="https://downloads.sourceforge.net/project/airborne/VolvoxBuild.zip?r=&ts=1497185308&use_mirror=master"
 gui="https://github.com/AnnonZerp/Airborne/raw/master/Build/airborne_guisettings16.1.zip"
 kodi="16.1"
 theme="http://"
